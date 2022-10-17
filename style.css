@@ -1,3 +1,33 @@
-#img {
-    height:10%;
+html, body {
+    height: 100%;
+    font-size: 1rem;
+}
+
+#logo {
+    height:40px;
+}
+
+#header-img {
+    height:500px;
+}
+
+#feature-img {
+    height:500px;
+}
+
+.gradient {
+    background: rgb(141,148,230);
+    background: linear-gradient(90deg, rgba(141,148,230,1) 0%, rgba(108,177,137,1) 100%);
+}
+
+.page-header {
+    margin-top:4rem;
+    font-size: 1.25rem;
+    color:white;
+    font-family: 'Merriweather', serif;
+}
+
+.feature {
+    color:white;
+    font-family: 'Merriweather', serif;
 }
