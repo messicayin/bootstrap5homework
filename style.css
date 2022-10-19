@@ -31,3 +31,17 @@ html, body {
     color:white;
     font-family: 'Merriweather', serif;
 }
+
+.feature ul {
+    padding-left:2rem;
+    list-style-type:none;
+}
+
+.feature ul li {
+    padding-left:2rem;
+    background-image:url(wheel-icon.svg);
+    background-repeat:no-repeat;
+    line-height:1.5rem;
+    margin-bottom:1 rem;
+}
+
